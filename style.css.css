@@ -1,0 +1,29 @@
+.body{
+    
+    padding: 200px;
+}
+.parent{
+    position:absolute;
+    display:flex;
+    gap:5px;
+    justify-content:center;
+    
+   
+
+}
+
+.img{
+    position:relative;
+    height:200px;
+    width:200px;
+    justify-content:center;
+    
+}
+video{
+    transform:rotate(180deg);
+}
+img{
+    border-style:ridge;
+    border-style:ridge
+}  
+
